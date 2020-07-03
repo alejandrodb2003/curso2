@@ -10,6 +10,7 @@
     if($contador>1)
     {
         echo "Hola bienvenido de vuelta, tu has visitado este sitio ".$contador." veces.";
+        echo "Hola bienvenido de vuelta, tu has visitado este sitio ".$contador." veces.";
     }
     else
     {
